@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funky kong", "funky kong\funky kong.csproj", "{47A457F0-732A-4C4D-87A1-013B3A82E9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A457F0-732A-4C4D-87A1-013B3A82E9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A457F0-732A-4C4D-87A1-013B3A82E9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A457F0-732A-4C4D-87A1-013B3A82E9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A457F0-732A-4C4D-87A1-013B3A82E9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B1780E-C87D-4F62-B6CD-90DE1D08A4B7}
+	EndGlobalSection
+EndGlobal
